@@ -1,9 +1,12 @@
 ﻿# 村橋家の家紋 SVG ファイル
+![Murahashi's family emblem](https://github.com/mkuriki1990/murahashi_emblem/blob/images/murahashi_emblem_400x400.png)
 我が家の家紋をデジタルデータ化したかったので作った SVG ファイルです. 
 九枚笹と 2 羽の雀が組み合わさっています. 
 
 SVG of Murahashi's family emblem. 
 Our emblem is designed with 9 bamboo leaves and 2 sparrows. 
+
+![emblem on grave](https://github.com/mkuriki1990/murahashi_emblem/blob/images/emblem_on_grave_thumb.jpg)
 
 ## File Discription
 ### SVG Data
