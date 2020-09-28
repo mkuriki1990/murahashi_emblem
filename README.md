@@ -11,7 +11,9 @@ Our emblem is designed with 9 bamboo leaves and 2 sparrows.
 
 ## File Discription
 ### SVG Data
-- murahashi_emblem_withPNG.svg : SVG vector data
+- [murahashi_emblem.svg](https://raw.githubusercontent.com/mkuriki1990/murahashi_emblem/master/murahashi_emblem.svg) : SVG vector data
+### DXF Data
+- [murahashi_emblem.dxf](https://raw.githubusercontent.com/mkuriki1990/murahashi_emblem/master/murahashi_emblem.dxf) : DXF data (for CAD)
 
 ### Raster Image
 - murahashi_emblem_400x400.png : Raster image 400x400 resolution
@@ -21,7 +23,7 @@ Our emblem is designed with 9 bamboo leaves and 2 sparrows.
 ### Edit & Original data
 - emblem_scan.jpg : Scanned image
 - emblem_masked.docx : Masked scan data from "emblem_scan.jpg"
-- murahashi_emblem.svg : SVG vector data with scan image as background image
+- murahashi_emblem_withPNG.svg : SVG vector data with scan image as background image
 
 ### Reference
 - emblem_on_grave.jpg : Emblem image on grave (not used)
